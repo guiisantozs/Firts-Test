@@ -1,2 +1,2 @@
-# Firts Test
-Primeiro repositório do curso de Git e Github
+# Primeiros Passos
+Primeiro repositório do curso de Git e Github.
